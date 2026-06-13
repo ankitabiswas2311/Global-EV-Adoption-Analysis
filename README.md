@@ -1,5 +1,8 @@
 # Global EV Adoption Analysis
 
+## Live Demo
+[Click here to view the dashboard](https://global-ev-adoption-analysis-kyeibiuhbc7nsgmhqmhzwg.streamlit.app/)
+
 ## Objective
 Analyze electric vehicle registration data to understand adoption trends, 
 manufacturer dominance, geographic distribution, and battery range patterns.
